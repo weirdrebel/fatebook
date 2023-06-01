@@ -1,4 +1,4 @@
-# FATEBOOK
+# Fatebook
 
 FATEBOOK is a social media application written in C++. It can be accessed from devices with internet connectivity, such as personal computers, tablets, and smartphones. Users can register, create profiles, chat with friends, and make posts. The application follows the validation standards of "Facebook" and handles exceptions/errors.
 
